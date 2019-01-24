@@ -21,3 +21,5 @@ npm start
 
 4. The build fails with an error
 ![build error image](https://user-images.githubusercontent.com/4413963/51668133-df4f8780-2004-11e9-9f81-3635e33146d0.png)
+
+_Confirmed reproducible on Node v8.9.4 and v11.4.0._
