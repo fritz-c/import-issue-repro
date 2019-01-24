@@ -5,6 +5,7 @@ This repo demonstrates a build issue that occurs when importing js files with co
 1. In the shell:
 
 ```sh
+npm install
 npm start
 ```
 
@@ -19,3 +20,4 @@ npm start
 ```
 
 4. The build fails with an error
+![build error image](https://user-images.githubusercontent.com/4413963/51668133-df4f8780-2004-11e9-9f81-3635e33146d0.png)
